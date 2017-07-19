@@ -1,0 +1,13 @@
+{
+  "name": "tol-luokitus",
+  "title": Toimialaluokitus (TOL 2008)",
+  "description": "",
+  "version": "1.0",
+  "keywords": ["tol", "toimiala"],
+  "resources": [{
+      "name": "tol2008-csv-source",
+      "path": "data/sources/tol2008.csv",
+      "format": "csv",
+      "mediatype": "application/csv",
+  }]
+}
